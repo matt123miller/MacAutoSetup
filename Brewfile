@@ -21,10 +21,9 @@ brew "kubectl"       # Kubernetes CLI
 brew "tailscale"     # Secure mesh VPN for homelab and remote access
 
 # Languages n stuff
-brew "python"
-brew "pipx"
 brew "node"
 brew "nvm"
+brew "pnpm"
 
 # GNU Utilities
 brew "coreutils"
@@ -41,11 +40,8 @@ cask "ghostty"
 cask "aerospace"
 cask "caffeine"
 cask "discord"
-cask "chatgpt"
-cask "shottr"
-cask "caffeine" 
-# cash "zoom" - I don't want to install this by default
+cask "kap" 
 
 # Fonts
 cask "font-jetbrains-mono-nerd-font"
-
+cask "font-fira-code"
