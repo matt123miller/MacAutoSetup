@@ -17,8 +17,6 @@ brew "delta"
 brew "tmux"
 brew "stow"
 brew "neovim"
-brew "kubectl"       # Kubernetes CLI
-brew "tailscale"     # Secure mesh VPN for homelab and remote access
 
 # Languages n stuff
 brew "node"
@@ -33,6 +31,7 @@ brew "gawk"
 
 # GUI Applications
 cask "iterm2"
+cask "zen"
 cask "visual-studio-code"
 cask "raycast"
 cask "docker"
@@ -40,7 +39,8 @@ cask "ghostty"
 cask "aerospace"
 cask "caffeine"
 cask "discord"
-cask "kap" 
+cask "kap"
+
 
 # Fonts
 cask "font-jetbrains-mono-nerd-font"
