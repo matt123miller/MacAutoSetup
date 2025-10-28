@@ -18,7 +18,7 @@ brew "tmux"
 brew "stow"
 brew "neovim"
 
-# Languages n stuff
+# Languages
 brew "node"
 brew "nvm"
 brew "pnpm"
@@ -40,7 +40,9 @@ cask "aerospace"
 cask "caffeine"
 cask "discord"
 cask "kap"
-
+cask "spotify"
+cask "gitkraken"
+cask "postman"
 
 # Fonts
 cask "font-jetbrains-mono-nerd-font"
