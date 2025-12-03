@@ -32,6 +32,7 @@ brew "gawk"
 # GUI Applications
 cask "iterm2"
 cask "zen"
+cask "firefox"
 cask "visual-studio-code"
 cask "raycast"
 cask "docker"
@@ -43,6 +44,8 @@ cask "kap"
 cask "spotify"
 cask "gitkraken"
 cask "postman"
+cask "claude"
+cask "claude-code"
 
 # Fonts
 cask "font-jetbrains-mono-nerd-font"
